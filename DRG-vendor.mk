@@ -84,7 +84,6 @@ PRODUCT_PACKAGES += \
     libsensor1 \
     libsensor_reg \
     sensor_calibrate \
-    audio.primary.sdm660-nokia \
     libacdb-fts \
     libacdbloader \
     libacdbrtac \
@@ -95,10 +94,7 @@ PRODUCT_PACKAGES += \
     libadsp_hvx_stub \
     libaoa \
     libaudcal \
-    libaudio_log_utils \
     libaudioalsa \
-    libaudioconfigstore \
-    libaudioparsers \
     libchromatix_s5k3p9sx_drg_front_2nd_common \
     libchromatix_s5k3p9sx_drg_front_2nd_cpp_hfr_120 \
     libchromatix_s5k3p9sx_drg_front_2nd_cpp_hfr_60 \
@@ -306,7 +302,6 @@ PRODUCT_PACKAGES += \
     libchromatix_s5k5e9_drg_aux_zsl_preview_3a \
     libchromatix_s5k5e9_drg_aux_zsl_video_3a \
     libdepthmapwrapper \
-    libdrc \
     libfih_camera_effect \
     libflash_dummy_flash \
     libflash_pmic \
@@ -416,10 +411,7 @@ PRODUCT_PACKAGES += \
     libqomx_jpegdec \
     libqomx_jpegenc \
     libqomx_jpegenc_pipe \
-    libqtigef \
     libremosaic_daemon \
-    libsurround_3mic_proc \
-    libtinycompress \
     android.hardware.keymaster@3.0-impl-qti \
     fingerprint.gxfp3258_drg \
     libgf_ca_gxfp3258_drg \
